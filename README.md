@@ -25,17 +25,17 @@ Tap Clicker Game is a fun and engaging web-based game designed to provide an add
 1. **Simple Gameplay**  
    Players tap the screen to earn points, with intuitive controls designed for both mobile and desktop platforms.
 
-   ![Gameplay](https://yourimageurl.com/gameplay.png)
+  <a href="https://ibb.co/7Kh8YZF"><img src="https://i.ibb.co/gJYHjfC/Telegram-based-tap-clicker-game-for-crypto-company-2.png" alt="Telegram-based-tap-clicker-game-for-crypto-company-2" border="0"></a>
 
 2. **Upgrades and Power-ups**  
    Users can spend points to purchase upgrades that enhance their tapping abilities, introducing strategic elements to the game.
 
-   ![Upgrades](https://yourimageurl.com/upgrades.png)
+   <a href="https://ibb.co/b77zyC9"><img src="https://i.ibb.co/hCCDn4z/Telegram-based-tap-clicker-game-for-crypto-company-1.png" alt="Telegram-based-tap-clicker-game-for-crypto-company-1" border="0"></a>
 
 3. **Leaderboards**  
    Compete with friends and other players globally by climbing the leaderboard, showcasing the top scores.
 
-   ![Leaderboards](https://yourimageurl.com/leaderboards.png)
+   <a href="https://ibb.co/b77zyC9"><img src="https://i.ibb.co/hCCDn4z/Telegram-based-tap-clicker-game-for-crypto-company-1.png" alt="Telegram-based-tap-clicker-game-for-crypto-company-1" border="0"></a>
 
 4. **Engaging UI/UX**  
    An appealing design with smooth animations that keeps players engaged while providing a seamless experience.
